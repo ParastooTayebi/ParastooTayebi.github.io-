@@ -1,9 +1,11 @@
 ### resume
 ---
+<img src="http://uupload.ir/files/iakn_19-05-19-22-02-18-217_deco.jpg">
 
++       Fatemeh Tayebi
++       1999
 
-
-### Skin 
+### Skills 
 ---
 +       Programming Languages (C++)
 +       Adobe Photoshop
